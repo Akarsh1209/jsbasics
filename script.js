@@ -32,8 +32,8 @@ if(a>b){
     }
 // hosting- all the decleration will top of the stack and initialization will be dne later
 
-console.log('the value of a is',a);
-var a = 3;
+console.log('the value of n is',n);
+var n = 3;
 
 // refferential data type to not to repeat
 // dry
